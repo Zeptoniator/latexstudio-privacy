@@ -41,6 +41,21 @@ données ; l'éditeur n'y a pas accès.
 
 L'application ne s'adresse pas spécialement aux enfants de moins de 13 ans.
 
+## Supprimer votre compte et vos données {#suppression}
+
+**LaTeX Studio Ultimate** n'a pas de compte chez son éditeur : vous n'en avez un que si vous reliez l'appli à un serveur de
+votre choix. Pour le supprimer :
+
+1. Ouvrez LaTeX Studio Ultimate, puis l'onglet **Compte**.
+2. Touchez **Supprimer le compte**, puis confirmez.
+
+Le serveur efface alors votre compte, votre adresse e-mail, vos projets et vos commentaires. Ce serveur appartenant à vous ou
+à la personne qui vous l'a fourni, c'est sa propre politique qui fixe les éventuelles durées de conservation ; l'éditeur
+de l'appli n'y a pas accès et ne conserve rien.
+
+Les données restées sur l'appareil s'effacent en supprimant un projet puis en vidant la corbeille, ou en désinstallant
+l'appli. Une question : voir **Contact** ci-dessous.
+
 ## Contact
 
 <serge.simono27@gmail.com>
@@ -72,5 +87,10 @@ Android's picker: the app only reaches those you choose.
 
 **Your rights:** uninstalling removes local data. You can also delete a project in the app, then empty the trash. If you
 connected an account server, the Account screen exports and deletes that data; the publisher has no access to it.
+
+**Delete your account and data:** the publisher holds no account for you; you only have one if you connect the app to a server
+of your choice. Open LaTeX Studio Ultimate, go to the **Account** tab, tap **Delete account** and confirm. That server then erases your
+account, e-mail, projects and comments; its own policy sets any retention period, and the publisher has no access to it and keeps
+nothing. Data on the device goes when you delete a project and empty the trash, or uninstall the app.
 
 **Contact:** <serge.simono27@gmail.com>
